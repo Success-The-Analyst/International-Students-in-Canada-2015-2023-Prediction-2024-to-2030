@@ -43,13 +43,13 @@ This project analyzes the trends of international students in Canada from 2015 t
 
 The following technologies were utilized in this project:
 
-- 1. **Python**
-- 2. **Pandas**
-- 3. **Matplotlib & Seaborn**
-- 4. **NumPy**
-- 5. **Jupyter Notebook**
-- 6. **CSV**
-- 7. **GitHub**
+- **Python**
+- **Pandas**
+- **Matplotlib & Seaborn**
+- **NumPy**
+- **Jupyter Notebook**
+- **CSV**
+- **GitHub**
 
 ## Installation
 To run the project, you need to install the required libraries. You can install them using pip:
