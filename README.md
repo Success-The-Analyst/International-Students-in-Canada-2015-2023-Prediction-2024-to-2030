@@ -44,28 +44,14 @@ This project analyzes the trends of international students in Canada from 2015 t
 The following technologies were utilized in this project:
 
 ### 1. **Python**
-   - The primary programming language used to build the analysis and forecasting model.
-
 ### 2. **Pandas**
-   - A Python library used for data analysis and manipulation. It is used for handling datasets, cleaning data, and generating statistics.
-
 ### 3. **Matplotlib & Seaborn**
-   - Python libraries for creating static, animated, and interactive visualizations. They are used to plot trends and distribution charts.
-
 ### 4. **NumPy**
-   - A library used for handling arrays and performing numerical operations, used here for data transformations and simulations.
-
 ### 5. **Jupyter Notebook**
-   - An open-source web application used to run Python code interactively and showcase the data analysis and forecasting.
-
 ### 6. **CSV**
-   - The format used for saving the processed data, allowing easy export and use for further analysis.
-
 ### 7. **GitHub**
-   - The platform used to host the project code, share it with others, and enable version control.
 
 ## Installation
-
 To run the project, you need to install the required libraries. You can install them using pip:
 
 ```bash
